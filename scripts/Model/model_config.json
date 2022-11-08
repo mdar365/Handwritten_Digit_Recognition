@@ -1,0 +1,8 @@
+{
+    "models": {
+        "Linear": "Model_Linear",
+        "Convolutional": "Model_Conv",
+        "Original": "Model_Original",
+        "Linear Momentum": "Model_Linear_Momentum"
+    }
+}
